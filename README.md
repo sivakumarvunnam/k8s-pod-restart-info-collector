@@ -1,0 +1,1 @@
+# k8s-pod-restart-info-collector
